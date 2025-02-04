@@ -4,6 +4,18 @@ A curated collection of YouTube channels and video tutorials specifically select
 
 ## Comprehensive Programming Channels
 
+### Bro Code
+- **Channel**: [youtube.com/@BroCodez](https://www.youtube.com/@BroCodez)
+- **Best For**:
+  - In-depth tutorials in multiple languages
+  - Project-based learning
+  - No faff or frills
+- **Notable Playlists**:
+  - Python Full course for free (2024)
+  - C++ Full course for free
+  - Learn Data Structures and Algorithms for free
+  - JavaScript Full Course for free (2024)
+
 ### freeCodeCamp
 - **Channel**: [freeCodeCamp.org](https://youtube.com/c/freecodecamp)
 - **Best For**:
@@ -116,6 +128,19 @@ A curated collection of YouTube channels and video tutorials specifically select
   - Data Science Projects
   - Python Automation
 
+### Python concepts and useful functions
+
+#### Indently
+- **Channel**: [youtube.com/@Indently](https://www.youtube.com/@Indently)
+- **Focus Area**:
+  - Setting up development environments
+  - Tips and tricks in Python
+  - Small project walkthroughs
+- **Recommended Content**:
+  - 5 Good Python Habits
+  - How to create an accurate Chat Bot Response System in Python Tutorial
+  - 49 Useful Built-in Functions in Python
+
 ## Using These Resources Effectively
 
 ### Learning Strategy
@@ -124,18 +149,6 @@ A curated collection of YouTube channels and video tutorials specifically select
    - Follow course sequences completely
    - Take notes during videos
    - Practice alongside tutorials
-
-2. **Group Learning**
-   - Watch videos together during lunch breaks
-   - Discuss concepts as a team
-   - Work on tutorial projects collaboratively
-   - Share helpful videos in Discord
-
-3. **Project Integration**
-   - Apply video concepts to workplace projects
-   - Use tutorial code as reference
-   - Adapt example projects for work needs
-   - Create learning presentations from videos
 
 ### Best Practices
 - Watch at 1.25x or 1.5x speed for efficient learning
